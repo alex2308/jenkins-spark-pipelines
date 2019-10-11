@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/alex/vrt/jenkins-test/target/scala-2.11/jenkins-test_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alex/vrt/jenkins-test/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMeApp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alex/vrt/jenkins-test/target/scala-2.11/classes/SparkMeApp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMeApp/Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alex/vrt/jenkins-test/target/scala-2.11/classes/SparkMeApp/Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMeApp/Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alex/vrt/jenkins-test/target/scala-2.11/classes/SparkMeApp/Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMeApp/SparkMeApp$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alex/vrt/jenkins-test/target/scala-2.11/classes/SparkMeApp/SparkMeApp$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMeApp/SparkMeApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alex/vrt/jenkins-test/target/scala-2.11/classes/SparkMeApp/SparkMeApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMeApp/SparkMeApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alex/vrt/jenkins-test/target/scala-2.11/classes/SparkMeApp/SparkMeApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
