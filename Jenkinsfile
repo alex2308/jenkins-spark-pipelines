@@ -1,5 +1,6 @@
 node {
    stage('test') {
-      sbt test
+      echo "Testings sbt project"
+      sh "sbt test"
    }
 }
