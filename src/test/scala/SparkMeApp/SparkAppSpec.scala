@@ -11,6 +11,6 @@ class SparkAppSpec
       ("miguel","3537625",21),
       ("luisa","5386528",23)
     ).toDF("name","id","age")
-    assert(!SparkMeApp.SparkMeApp.EnsureColumnExist(sourceDF,"age"))
+    assert(SparkMeApp.SparkMeApp.EnsureColumnExist(sourceDF,"age"))
   }
 }
